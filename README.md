@@ -8,7 +8,7 @@
 
 ---
 <div align="center">
-  [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)]
+  [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
   
   # 💫About Me
   🌱 I’m currently learning: Data analysis using R-lang and Scala
