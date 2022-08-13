@@ -1,9 +1,7 @@
-# Conditioner
-Novice reverse-engineer, pen-tester and malware analyst
-
-## Discord
-![My Discord](https://discord-readme-badge.vercel.app/api?id=500465501462331393)
-
-## Statistics
-[![belohnung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HairConditioner&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HairConditioner&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">
+  Welcome to Conditioner's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/HairConditioner/HairConditioner"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+HairConditioner;I+am+a+High+school+student;Novice+Data+Scientist;Novice+Reverse+Engineer;Game+Dev;Crypto+Lover+%3C3"></a>
+</p>
