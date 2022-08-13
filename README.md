@@ -20,7 +20,7 @@
   💬 Ask me about for any help
   
   📫 How to reach me:
-   - Mail me at "@bryanrplee@outlook.com"
+   - Mail me at ```@bryanrplee@outlook.com```
    - DM me at ```conditioner#8963```
 
   ## 🌐Socials
