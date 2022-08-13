@@ -5,7 +5,10 @@
 <p align="center">
   <a href="https://github.com/HairConditioner/HairConditioner"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+HairConditioner;I+am+a+High+school+student;Novice+Data+Scientist;Novice+Reverse+Engineer;Game+Dev;Crypto+Lover+%3C3"></a>
 </p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
 
 ---
 <div align="center">
@@ -27,3 +30,4 @@
   ![](https://github-readme-stats.vercel.app/api?username=HairConditioner&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HairConditioner&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HairConditioner&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
