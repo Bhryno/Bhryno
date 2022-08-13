@@ -9,7 +9,7 @@
 ---
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
 
   # 💫About Me
   🌱 I’m currently learning: Data analysis using R-lang and Scala
