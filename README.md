@@ -9,6 +9,7 @@
 ---
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
   # 💫About Me
   🌱 I’m currently learning: Data analysis using R-lang and Scala
   
