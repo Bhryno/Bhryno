@@ -18,3 +18,6 @@
   📫 How to reach me:
    - Mail me at "@bryanrplee@outlook.com"
    - DM me at ```conditioner#8963```
+
+  ## 🌐Socials
+  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Rimification) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCyJP4xA_LZXwuj1mZCt4Hzw)
