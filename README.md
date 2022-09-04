@@ -27,6 +27,9 @@
   [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Rimification) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCyJP4xA_LZXwuj1mZCt4Hzw) [![Steam](https://img.shields.io/badge/Steam-%23101C46.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/hairconditioner/) [![Spotify](https://img.shields.io/badge/Spotify-%2300FF00.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/barrocheter?si=098b95989d32440b)
 
   # 📊GitHub Stats
+    ![](https://github-readme-stats.vercel.app/api?username=HairConditioner&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=HairConditioner&theme=radical&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HairConditioner&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
