@@ -17,7 +17,7 @@
   🔭 I'm looking to expanding my knowledge in data science and engineering
   🤔 I’m Not looking for help
 
-  💬 Ask me about for any help
+  💬 Ask me about anything data-related for any help
   
   📫 How to reach me:
    - Mail me at ```@bryanrplee@outlook.com```
