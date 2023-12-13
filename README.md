@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Bhryno/Bhryno"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Bhryno;I+am+a+1st+year+associate+software+engineer+at+WiseTech+Global;Novice+Data+Scientist;Novice+Reverse+Engineer;Game+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/Bhryno/Bhryno"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Bhryno;1st+year+associate+software+engineer+at+WiseTech+Global;Novice+Data+Scientist;Novice+Reverse+Engineer;Game+Dev;Crypto+Lover+%3C3"></a>
 </p>
 
 ---
